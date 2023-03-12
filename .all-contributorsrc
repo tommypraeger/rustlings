@@ -1866,6 +1866,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mdmundo",
+      "name": "Edmundo Paulino",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60408300?v=4",
+      "profile": "https://github.com/mdmundo",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "eroullit",
+      "name": "Emmanuel Roullit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/301795?v=4",
+      "profile": "https://github.com/eroullit",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "nidhalmessaoudi",
+      "name": "Nidhal Messaoudi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63377412?v=4",
+      "profile": "https://nidhalmessaoudi.herokuapp.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MahdiBM",
+      "name": "Mahdi Bahrami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54685446?v=4",
+      "profile": "https://github.com/MahdiBM",
+      "contributions": [
+        "tool"
+      ]
     }
   ],
   "contributorsPerLine": 8,
